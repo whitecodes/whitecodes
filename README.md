@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/white?max_languages=15)
+
+
 <!--
 **whitecodes/whitecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
