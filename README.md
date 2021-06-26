@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/white?max_languages=15)
+![My Code::Stats history graph](https://codestats-readme.wegfan.cn/history-graph/white?max_languages=15&height=150&show_legend=false&history_days=13)
 
 
 <!--
